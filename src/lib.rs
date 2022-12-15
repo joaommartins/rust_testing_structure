@@ -1,1 +1,2 @@
+mod bar;
 mod foo;
